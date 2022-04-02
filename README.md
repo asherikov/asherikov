@@ -13,17 +13,3 @@ Quick links:
 - mail: `alexander <at> sherikov.net`
 - git mirror: https://notabug.org/asherikov
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/asherikov">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=asherikov&show_icons=true&count_private=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/asherikov">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherikov&layout=compact" />
-      </a>
-    </td>
-  </tr>
-</table>
