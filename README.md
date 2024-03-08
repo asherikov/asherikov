@@ -7,9 +7,3 @@ user/developer,
 I used to work at https://keybotic.com/, https://www.sevendof.com/,
 https://pal-robotics.com/ and https://www.inria.fr/en.
 
-Quick links:
-- home page: http://sherikov.net
-- Linkedin: https://www.linkedin.com/in/asherikov
-- mail: `alexander <at> sherikov.net`
-- git mirror: https://notabug.org/asherikov
-
