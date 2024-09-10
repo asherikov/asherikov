@@ -4,3 +4,7 @@ and [MS'2012](https://github.com/asherikov/ms-thesis)
 degrees in control of humanoid robots, 20+ year UNIX
 user/developer,
 [etc (CV)](https://github.com/asherikov/cv/blob/master/cv.pdf).
+
+
+Mirrors:
+- <https://tvoygit.ru/asherikov>
