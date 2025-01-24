@@ -8,3 +8,4 @@ user/developer,
 
 Mirrors:
 - <https://tvoygit.ru/asherikov>
+- <https://notabug.org/asherikov>
